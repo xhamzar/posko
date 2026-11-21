@@ -1,7 +1,7 @@
 # POSKO — Forum Online ala V2EX
 
 Forum komunitas ringan: Python serverless (Vercel) + Firestore + frontend
-vanilla HTML/CSS/JS. Live di https://posko.ruru.my.id
+vanilla HTML/CSS/JS. Live di https://poskoo.my.id
 
 ## Struktur
 
