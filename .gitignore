@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+api/_sa.json
+serviceAccount.json
+.env
+.env.*
